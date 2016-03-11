@@ -1,2 +1,2 @@
 # freedom
-paper with rok and jan
+freedom paper: rok, jan, adam
