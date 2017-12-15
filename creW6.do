@@ -1,5 +1,6 @@
 //new: time /usr/local/stata13_ru/stata-mp -b do  /home/aok/misc/grants/poland/leszekMorawskiVistula/cre.do
 //stata
+//just added some stuff
 clear                                  
 capture set maxvar 10000
 version 14                             
